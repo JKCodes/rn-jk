@@ -17,12 +17,15 @@ class AuthScreen extends Component {
                 <View style={styles.inputContainer}>
                     <DefaultInput
                         placeholder="Email Address"
+                        style={styles.input}
                     />
                     <DefaultInput
                         placeholder="Password"
+                        style={styles.input}
                     />
                     <DefaultInput
                         placeholder="Confirm Password"
+                        style={styles.input}
                     />
                 </View>
                 <Button title="Submit" onPress={this.loginHandler}/>
@@ -39,6 +42,10 @@ const styles = StyleSheet.create({
     },
     inputContainer: {
         width: "80%"
+    },
+    input: {
+        backgroundColor: "#eee",
+        borderColor: "#bbb"
     }
 });
 
