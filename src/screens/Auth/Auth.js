@@ -5,6 +5,7 @@ import DefaultInput from '../../components/UI/DefaultInput/DefaultInput';
 import HeadingText from '../../components/UI/HeadingText/HeadingText';
 import MainText from '../../components/UI/MainText/MainText';
 import backgroundImage from '../../assets/background.jpg'
+import ButtonWithBackground from '../../components/UI/ButtonWithBackground/ButtonWithBackground';
 
 class AuthScreen extends Component {
     loginHandler = () => {
@@ -24,7 +25,10 @@ class AuthScreen extends Component {
                             style={styles.textHeading}
                         >Please Log In</HeadingText>
                     </MainText>
-                    <Button title="Switch to Login" />
+                    <ButtonWithBackground
+                        color="#29aaf4"
+                        onPress={() => alert("Switching")}
+                    >Switch to Login</ButtonWithBackground>
                     <View style={styles.inputContainer}>
                         <DefaultInput
                             placeholder="Email Address"
@@ -39,7 +43,10 @@ class AuthScreen extends Component {
                             style={styles.input}
                         />
                     </View>
-                    <Button title="Submit" onPress={this.loginHandler}/>
+                    <ButtonWithBackground
+                        color="#29aaf4"
+                        onPress={this.loginHandler}
+                    >Submit</ButtonWithBackground>
                 </View>
             </ImageBackground>
         );
