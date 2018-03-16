@@ -15,7 +15,7 @@ const buttonWithBackground = props => {
             <TouchableNativeFeedback onPress={props.onPress}>
                 {content}
             </TouchableNativeFeedback>
-        );    
+        );
     }
     return (
         <TouchableOpacity onPress={props.onPress}>
