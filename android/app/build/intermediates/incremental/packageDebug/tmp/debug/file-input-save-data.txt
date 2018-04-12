@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Apr 12 11:11:40 EDT 2018
+#Thu Apr 12 11:58:43 EDT 2018
 17.baseType=DIRECTORY
 4.path=lib/x86/libglog_init.so
 25.base=/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
