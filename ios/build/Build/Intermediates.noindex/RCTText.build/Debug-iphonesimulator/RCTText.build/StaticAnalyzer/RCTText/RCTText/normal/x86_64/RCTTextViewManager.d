@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
@@ -23,15 +23,16 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTShadowTextView.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextView.h \
-  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextInput.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

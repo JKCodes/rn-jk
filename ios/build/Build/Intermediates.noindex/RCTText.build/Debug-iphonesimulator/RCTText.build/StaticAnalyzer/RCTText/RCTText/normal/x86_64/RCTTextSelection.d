@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextSelection.m \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.m \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \

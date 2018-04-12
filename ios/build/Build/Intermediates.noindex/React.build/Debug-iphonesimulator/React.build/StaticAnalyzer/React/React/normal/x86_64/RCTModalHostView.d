@@ -28,5 +28,4 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTModalHostViewController.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTTouchHandler.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTUIManager.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTTVRemoteHandler.h
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h

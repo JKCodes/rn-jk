@@ -357,5 +357,4 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Math.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/../ReactCommon/cxxreact/JSModulesUnbundle.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/noncopyable.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Memory.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/ReactCommon/cxxreact/oss-compat-util.h
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Memory.h

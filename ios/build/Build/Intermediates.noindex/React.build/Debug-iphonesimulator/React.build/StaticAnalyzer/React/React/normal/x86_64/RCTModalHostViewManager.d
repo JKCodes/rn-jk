@@ -29,4 +29,5 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTModalManager.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTEventEmitter.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h

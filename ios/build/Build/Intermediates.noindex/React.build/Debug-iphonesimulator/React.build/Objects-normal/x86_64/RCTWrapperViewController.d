@@ -1,7 +1,6 @@
 dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTWrapperViewController.m \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTWrapperViewController.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTBridgeDelegate.h \

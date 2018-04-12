@@ -16,7 +16,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  [GMSServices provideAPIKey:@"AIzaSyDUaGU05JXGw2l-2SVx-rw_V9DpExqOkQE"];
+  [GMSServices provideAPIKey:@"AIzaSyANZjxqXiRq0zzkTJG148LOeZhwI_bbpm8"];
   NSURL *jsCodeLocation;
 #ifdef DEBUG
   //  jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.bundle?platform=ios&dev=true"];

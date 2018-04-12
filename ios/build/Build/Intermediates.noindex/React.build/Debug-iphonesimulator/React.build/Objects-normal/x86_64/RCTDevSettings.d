@@ -19,4 +19,5 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

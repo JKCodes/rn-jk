@@ -23,4 +23,7 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/UIView+React.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTTabBar.h
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h

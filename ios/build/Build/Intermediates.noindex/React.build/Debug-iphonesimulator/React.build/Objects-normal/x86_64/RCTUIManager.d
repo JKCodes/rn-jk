@@ -38,6 +38,7 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTView.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTRootShadowView.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootViewInternal.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTShadowView+Internal.h \

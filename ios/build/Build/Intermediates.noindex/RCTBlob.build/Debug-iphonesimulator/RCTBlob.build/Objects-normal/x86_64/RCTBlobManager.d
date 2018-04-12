@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Blob/RCTBlobManager.m \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
@@ -21,5 +21,7 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h \
-  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h

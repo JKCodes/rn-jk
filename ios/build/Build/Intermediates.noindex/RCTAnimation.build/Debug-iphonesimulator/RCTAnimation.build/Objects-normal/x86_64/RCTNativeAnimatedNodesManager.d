@@ -40,4 +40,5 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

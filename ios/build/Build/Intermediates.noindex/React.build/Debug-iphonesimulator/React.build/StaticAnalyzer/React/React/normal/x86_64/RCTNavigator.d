@@ -27,5 +27,4 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTView.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTWrapperViewController.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/UIView+React.h

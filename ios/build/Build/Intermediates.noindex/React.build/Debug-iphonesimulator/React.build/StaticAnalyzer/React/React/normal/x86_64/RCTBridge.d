@@ -21,6 +21,7 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Profiler/RCTProfile.h \

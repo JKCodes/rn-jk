@@ -396,4 +396,6 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBigString.h \
-  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/MessageQueueThread.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/RAMBundleRegistry.h \
+  /Users/joe/Desktop/Projects/rn-jk/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSModulesUnbundle.h

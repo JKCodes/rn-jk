@@ -28,5 +28,7 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTViewManager.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/UIView+Private.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTRefreshControl.h

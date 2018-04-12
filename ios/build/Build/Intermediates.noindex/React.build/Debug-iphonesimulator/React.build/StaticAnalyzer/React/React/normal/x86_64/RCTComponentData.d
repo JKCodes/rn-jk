@@ -25,4 +25,5 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/UIView+React.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTParserUtils.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTRootView.h

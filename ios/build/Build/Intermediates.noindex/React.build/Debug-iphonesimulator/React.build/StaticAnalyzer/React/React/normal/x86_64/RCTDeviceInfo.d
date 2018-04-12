@@ -11,4 +11,5 @@ dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/UIUtils/RCTUIUtils.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTUtils.h

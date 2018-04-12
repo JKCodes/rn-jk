@@ -1,12 +1,12 @@
 dependencies: \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTFont.mm \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTFont.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTAnimationType.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTDefines.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/joe/Desktop/Projects/rn-jk/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
