@@ -1,4 +1,4 @@
-#Thu Apr 12 11:58:42 EDT 2018
+#Thu Apr 12 12:35:33 EDT 2018
 base.0=/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -17,7 +17,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/layout/redbox_item_title.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/xml/preferences.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/xml/preferences.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -461,7 +461,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat",
@@ -673,11 +673,11 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/layout/dev_loading_view.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
@@ -758,6 +758,10 @@
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/862e14f71a7a40ad2103c1e572620eb8/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/joe/Desktop/Projects/rn-jk/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -929,7 +933,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1213,7 +1217,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1261,7 +1265,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/layout/redbox_item_frame.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
@@ -1381,7 +1385,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/layout/redbox_view.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
@@ -1553,7 +1557,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -2013,7 +2017,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -2109,7 +2113,7 @@
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/804ef3983056aac518f37f4b854c0111/res/layout/fps_view.xml"
+        "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3f28d85f41f1f8b8ce50eb532e66a648/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -2190,6 +2194,10 @@
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
         "source": "/Users/joe/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/742656481544052788c03ecdbd393ce3/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/joe/Desktop/Projects/rn-jk/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
     },
     {
         "merged": "/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
