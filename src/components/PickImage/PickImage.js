@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Image, Button, StyleSheet } from 'react-native';
 
-import ImagePicker from 'react-native-image-picker';
+import ImagePicker from '../UI/ImagePicker/ImagePicker';
 
 class PickImage extends Component {
     state = {
@@ -18,6 +18,7 @@ class PickImage extends Component {
                 this.setState({
                     pickedImage: { uri: res.uri }
                 });
+                this.props.onImagePicked({uri: res.uri, base64: res.data});
             }
         });
     }

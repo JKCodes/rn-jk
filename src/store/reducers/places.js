@@ -13,7 +13,7 @@ const reducer = (state = initialState, action) => {
                     key: Math.random(), 
                     name: action.placeName,
                     image: {
-                      uri: "https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG"
+                      uri: action.image.uri 
                     },
                     location: action.location
                 }),
