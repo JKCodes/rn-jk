@@ -14,8 +14,9 @@ const reducer = (state = initialState, action) => {
                     name: action.placeName,
                     image: {
                       uri: "https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG"
-                    }
-                })
+                    },
+                    location: action.location
+                }),
             };
         case DELETE_PLACE:
             return {
