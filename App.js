@@ -41,11 +41,13 @@ Navigation.registerComponent(
 
 Navigation.registerComponent(
   "awesome-places.SideDrawer",
-  () => SideDrawer
+  () => SideDrawer,
+  store,
+  Provider
 );
 
 // Start an App
-Navigation.startSingleScreenApp({
+export default () => Navigation.startSingleScreenApp({
   screen: {
     screen: "awesome-places.AuthScreen",
     title: "Login"
