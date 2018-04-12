@@ -1,4 +1,0 @@
-#Thu Apr 12 09:56:03 EDT 2018
-base.0=/Users/joe/Desktop/Projects/rn-jk/android/app/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
